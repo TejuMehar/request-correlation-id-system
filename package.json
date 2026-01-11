@@ -1,0 +1,24 @@
+{
+  "name": "correlation-id-system",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TejuMehar/request-correlation-id-system.git"
+  },
+  "author": "Tejas mehar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TejuMehar/request-correlation-id-system/issues"
+  },
+  "homepage": "https://github.com/TejuMehar/request-correlation-id-system#readme",
+  "description": "",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^5.2.1"
+  }
+}
